@@ -11,19 +11,24 @@ This repository contains useful tools and resources for GitHub Pages and Web Dev
 It is very easy to publish a repository using GitHub Pages. All you need is:
 - A github account
 - A web browser
-- A little bit of knowledge writing code in markdown
+- A little bit of knowledge writing in markdown
 
 You can create a github account by going [here](https://github.com/join).
 
-You can use any browser of your choosing but I recommend using [Chrome](https://www.google.com/chrome/), [Firefox](https://www.mozilla.org/en-US/firefox/), or [Safari](https://www.apple.com/safari/). 
+You can use any browser of your choosing, but I recommend using [Chrome](https://www.google.com/chrome/), [Firefox](https://www.mozilla.org/en-US/firefox/), or [Safari](https://www.apple.com/safari/). 
 
-Markdown is a markup language that formats text into web pages. It is easy to learn and write in and will have you ready to create web pages in no time. To learn markdown I would recommend the following guides:
+Markdown is a markup language that formats text into web pages. It is easy to learn and write in markdown and you will be ready to create web pages in no time. To learn markdown I would recommend the following guides:
 - [Markdown Guide](https://www.markdownguide.org/)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [How to Write Faster, Better & Longer: The Ultimate Guide to Markdown](https://ghost.org/blog/markdown/)
 
 ## Recommened Resources
-
+For web development I think it is important to know HTML, CSS, and JavaScript. Here are a few resources that I recommend for learning these programming languages:
+- [W3Schools](https://www.w3schools.com/) - W3Schools is an online resource that contain many tutorials and examples to help you learn HTML, CSS, and JavsScript.
+- [Codecademy](https://www.codecademy.com/) - Codecademy offers courses in HTML, CSS, JavaScript, and many other programming languages. A lot of the courses are free and they also have a pro upgrade for more content and a path option. 
+- [Udemy](https://www.udemy.com/courses/development/web-development/) - Udemy is a platform that offer tons of courses in many different things. There are a ton of courses for web development on there. The courses do cost money but they always have huge sales going on. I am working through an iOS developent course on there right now and I am really enjoying it. 
+- [freeCodeCamp](https://www.freecodecamp.org) - freeCodeCamp is another free resource to learn web development. 
+- [PluralSight](https://www.pluralsight.com/) - Pluralsight is an online platform with courses in all areas of Computer Science. It also has learning paths and a skill IQ feature. I used it during my internship this summer to learn Xamarin.Forms and there is a lot of great courses on there. It is quite expensive but there is a lot of great content if you are willing to pay for it. 
 
 ## Contributers
 
