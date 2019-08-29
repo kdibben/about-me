@@ -31,4 +31,6 @@ For web development I think it is important to know HTML, CSS, and JavaScript. H
 - [PluralSight](https://www.pluralsight.com/) - Pluralsight is an online platform with courses in all areas of Computer Science. It also has learning paths and a skill IQ feature. I used it during my internship this summer to learn Xamarin.Forms and there is a lot of great courses on there. It is quite expensive but there is a lot of great content if you are willing to pay for it. 
 
 ## Contributers
+My name is Kelsie Dibben and I am a senior at Northwest Missouri State University. I am majoring in Computer Science. Below is a picture of my girlfriend Haley and I on a trip to Columbus, Ohio this summer.
 
+![](https://github.com/kdibben/about-me/blob/master/columbus.jpg)
