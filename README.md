@@ -33,4 +33,4 @@ For web development, I think it is important to know HTML, CSS, and JavaScript. 
 ## Contributors
 My name is Kelsie Dibben and I am a senior at Northwest Missouri State University. I am majoring in Computer Science. Below is a picture of my girlfriend Haley and I on a trip to Columbus, Ohio this summer.
 
-![](https://github.com/kdibben/about-me/blob/master/columbus.jpg)
+![](columbus.jpg)
