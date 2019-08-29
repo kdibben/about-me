@@ -24,11 +24,11 @@ Markdown is a markup language that formats text into web pages. It is easy to le
 
 ## Recommened Resources
 For web development I think it is important to know HTML, CSS, and JavaScript. Here are a few resources that I recommend for learning these programming languages:
-- [W3Schools](https://www.w3schools.com/) - W3Schools is an online resource that contain many tutorials and examples to help you learn HTML, CSS, and JavsScript.
+- [W3Schools](https://www.w3schools.com/) - W3Schools is an online resource that contain many tutorials and examples to help you learn HTML, CSS, and JavaScript.
 - [Codecademy](https://www.codecademy.com/) - Codecademy offers courses in HTML, CSS, JavaScript, and many other programming languages. A lot of the courses are free and they also have a pro upgrade for more content and a path option. 
-- [Udemy](https://www.udemy.com/courses/development/web-development/) - Udemy is a platform that offer tons of courses in many different things. There are a ton of courses for web development on there. The courses do cost money but they always have huge sales going on. I am working through an iOS developent course on there right now and I am really enjoying it. 
+- [Udemy](https://www.udemy.com/courses/development/web-development/) - Udemy is a platform that offer tons of courses in many different things. There are many courses for web development on there. The courses do cost money but they always have huge sales going on. I am working through an iOS developent course on there right now and I am really enjoying it. 
 - [freeCodeCamp](https://www.freecodecamp.org) - freeCodeCamp is another free resource to learn web development. 
-- [PluralSight](https://www.pluralsight.com/) - Pluralsight is an online platform with courses in all areas of Computer Science. It also has learning paths and a skill IQ feature. I used it during my internship this summer to learn Xamarin.Forms and there is a lot of great courses on there. It is quite expensive but there is a lot of great content if you are willing to pay for it. 
+- [PluralSight](https://www.pluralsight.com/) - Pluralsight is an online platform with courses in all areas of Computer Science. It also has learning paths and a skill IQ feature. I used it during my internship this summer to learn Xamarin.Forms and there is a lot of great courses on there. It is quite expensive but there is a lot of useful content if you are able to pay for it. 
 
 ## Contributers
 My name is Kelsie Dibben and I am a senior at Northwest Missouri State University. I am majoring in Computer Science. Below is a picture of my girlfriend Haley and I on a trip to Columbus, Ohio this summer.
