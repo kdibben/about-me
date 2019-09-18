@@ -1,3 +1,18 @@
 nav{
-    background-color: black;
+    background-color: #2B2331;
+}
+
+body{
+    color: white;
+}
+
+section{
+    background-color: #2B2331;
+    padding: 1em;
+    margin: 1em;
+    opacity: 20%;
+}
+
+img{
+    border-radius: 50%;
 }
