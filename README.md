@@ -1,5 +1,12 @@
 # about-me
 
+## Credits (P2 Published Site)
+- Navbar - [Bootstrap](https://mdbootstrap.com/docs/jquery/navigation/navbar/)
+- Logo Images - [LinkedIn](https://brand.linkedin.com/downloads) and [GitHub](https://github.com/logos)
+- iPhone Comparison Info - [Apple](https://www.apple.com/iphone/compare/)
+- Contact Form -[Bootstrap](https://mdbootstrap.com/docs/jquery/forms/contact/)
+- Buttons - [Bootstrap](https://mdbootstrap.com/docs/jquery/components/buttons/)
+
 ## Repository Links
 - [Source Repository](https://github.com/kdibben/about-me)
 - [Hosted Page](https://kdibben.github.io/about-me/)
