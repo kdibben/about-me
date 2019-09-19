@@ -52,6 +52,11 @@ aside{
     background-color: black;
 }
 
+#calculator{
+    margin-left: auto;
+    margin-right: auto;
+}
+
 thead{
     background-color: black;
 }
