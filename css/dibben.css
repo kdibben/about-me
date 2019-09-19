@@ -38,6 +38,15 @@ aside{
     width: 50px;
 }
 
+#iphone-table, th, td{
+    border: 1px solid white;
+    padding: 1em;
+}
+
+thead{
+    background-color: black;
+}
+
 hr{
     background-color: white;
 }
