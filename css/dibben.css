@@ -44,6 +44,14 @@ aside{
     padding: 1em;
 }
 
+#calculate-btn{
+    margin-top: 1em;
+}
+
+.btn-primary{
+    background-color: black;
+}
+
 thead{
     background-color: black;
 }
