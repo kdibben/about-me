@@ -62,5 +62,8 @@ thead{
 }
 
 hr{
+    border-color: white;
+    color: white;
     background-color: white;
 }
+
