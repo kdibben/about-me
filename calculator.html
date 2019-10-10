@@ -71,26 +71,27 @@
 
     <main class="container-fluid d-flex justify-content-center">
         <div class="row">
-            <div class="elegant-color-dark col-md-12"
-                style="padding-top: 2em; padding-bottom: 8em; padding-left: 10em; padding-right: 10em;">
+
+            <div id="calculator" class="elegant-color-dark col-md-12"
+                style="padding-top: 2em; padding-bottom: 3em; padding-left: 10em; padding-right: 10em;">
+
                 <fieldset class="mt-2">
                     <label for="principal">Principal:</label>
-                    <input type="text" id="principal" class="form-control">
+                    <input v-model="principal" id="principal" type="number" min="1" max="1000000" class="form-control">
                 </fieldset>
 
                 <fieldset class="mt-2">
                     <label for="rate">Interest Rate:</label>
-                    <input type="text" id="rate" class="form-control">
+                    <input v-model="rate" id="rate" type="number" min="0" max="20" step=".1" class="form-control">
                 </fieldset>
 
                 <fieldset class="mt-2">
                     <label for="time">Time:</label>
-                    <input type="text" id="Time" class="form-control">
+                    <input v-model="time" id="time" type="number" min="1" max="20" class="form-control">
                 </fieldset>
 
-                <div class="text-center mt-4">
-                    <button type="button" id="calculate-btn" class="btn btn-info light-blue">Calculate</button>
-                </div>
+                <h3 class="mt-4">{{totalInterest}}</h3>
+                <h3 class="mt-4">{{totalAmount}}</h3>
             </div>
         </div>
     </main>
@@ -126,7 +127,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.10/vue.js"></script>
 
     <!-- Vue component -->
-    <script src="/components/interestCalculator/interestCalculator.js"></script>
+    <script src="components/interestCalculator.js"></script>
 
 </body>
 
