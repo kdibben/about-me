@@ -9,8 +9,8 @@ const calculateAmount = (principalAmount, rateAmount, timeAmount) => {
 const calculator = new Vue({
     el: '#calculator',
     data: {
-        principal: 100,
-        rate: 1,
+        principal: 500,
+        rate: 2,
         time: 3
     },
     computed: {
