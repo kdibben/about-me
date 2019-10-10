@@ -1,6 +1,6 @@
 # about-me
 
-## Credits (P2 Published Site)
+## Credits
 - Navbar - [Bootstrap](https://mdbootstrap.com/docs/jquery/navigation/navbar/)
 - Logo Images - [LinkedIn](https://brand.linkedin.com/downloads) and [GitHub](https://github.com/logos)
 - iPhone Comparison Info - [Apple](https://www.apple.com/iphone/compare/)
