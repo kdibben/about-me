@@ -6,6 +6,7 @@
 - iPhone Comparison Info - [Apple](https://www.apple.com/iphone/compare/)
 - Contact Form -[Bootstrap](https://mdbootstrap.com/docs/jquery/forms/contact/)
 - Buttons - [Bootstrap](https://mdbootstrap.com/docs/jquery/components/buttons/)
+- I used our class examples for my AJAX and Local Storage. The link to the AJAX example can be found [here](https://github.com/profcase/js-gui-ajax). The Local Storage example can be found [here](https://github.com/profcase/js-gui-storage).
 
 ## Repository Links
 - [Source Repository](https://github.com/kdibben/about-me)
