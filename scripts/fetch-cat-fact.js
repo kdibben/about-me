@@ -28,4 +28,16 @@ document.addEventListener('click', event => {
     if (event.target && event.target.id === 'getCatFact') { 
         updateWithFact(event) 
     }
+  
+      const startCount = parseInt(localStorage.getItem('numberOfFetches')) || 0
+      const count = startCount + 1
+      const countResult = `You have fetched ${count} cat facts.`
+      document.getElementById('count').innerHTML = countResult
+
+      localStorage.setItem('numberOfFetches', count)
+  })
+
+  document.getElementById('removeCount').addEventListener('click', () => {
+      localStorage.removeItem('numberOfFetches')
+      updateWithFact(event)
   })
